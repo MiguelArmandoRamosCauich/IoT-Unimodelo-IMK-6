@@ -9,5 +9,3 @@ Este proyecto implementa un sistema de monitoreo de temperatura basado en **IoT*
 - **MATLAB (MathWorks)**: Para el análisis de datos y generación de alertas.
 
 ## Instalación y Configuración
-### 1. Clonar el repositorio
-```sh
